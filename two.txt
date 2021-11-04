@@ -1,3 +1,5 @@
 This is to test the merge conflicts in the git
 also toceck from developer - 1 side
 added anoher line at the end o the file
+conflict message to show on developer2 side
+
